@@ -1,0 +1,10 @@
+J:\Coding Projects\Rust\rust-fullstack\backend\target\debug\deps\libfinl_unicode-51cdf6387aee8ea5.rmeta: C:\Users\thund\.cargo\registry\src\index.crates.io-6f17d22bba15001f\finl_unicode-1.2.0\src\lib.rs C:\Users\thund\.cargo\registry\src\index.crates.io-6f17d22bba15001f\finl_unicode-1.2.0\src\categories.rs C:\Users\thund\.cargo\registry\src\index.crates.io-6f17d22bba15001f\finl_unicode-1.2.0\src\grapheme_clusters.rs C:\Users\thund\.cargo\registry\src\index.crates.io-6f17d22bba15001f\finl_unicode-1.2.0\src\data\mod.rs C:\Users\thund\.cargo\registry\src\index.crates.io-6f17d22bba15001f\finl_unicode-1.2.0\src\data\characters.rs C:\Users\thund\.cargo\registry\src\index.crates.io-6f17d22bba15001f\finl_unicode-1.2.0\src\data\grapheme_property.rs
+
+J:\Coding Projects\Rust\rust-fullstack\backend\target\debug\deps\finl_unicode-51cdf6387aee8ea5.d: C:\Users\thund\.cargo\registry\src\index.crates.io-6f17d22bba15001f\finl_unicode-1.2.0\src\lib.rs C:\Users\thund\.cargo\registry\src\index.crates.io-6f17d22bba15001f\finl_unicode-1.2.0\src\categories.rs C:\Users\thund\.cargo\registry\src\index.crates.io-6f17d22bba15001f\finl_unicode-1.2.0\src\grapheme_clusters.rs C:\Users\thund\.cargo\registry\src\index.crates.io-6f17d22bba15001f\finl_unicode-1.2.0\src\data\mod.rs C:\Users\thund\.cargo\registry\src\index.crates.io-6f17d22bba15001f\finl_unicode-1.2.0\src\data\characters.rs C:\Users\thund\.cargo\registry\src\index.crates.io-6f17d22bba15001f\finl_unicode-1.2.0\src\data\grapheme_property.rs
+
+C:\Users\thund\.cargo\registry\src\index.crates.io-6f17d22bba15001f\finl_unicode-1.2.0\src\lib.rs:
+C:\Users\thund\.cargo\registry\src\index.crates.io-6f17d22bba15001f\finl_unicode-1.2.0\src\categories.rs:
+C:\Users\thund\.cargo\registry\src\index.crates.io-6f17d22bba15001f\finl_unicode-1.2.0\src\grapheme_clusters.rs:
+C:\Users\thund\.cargo\registry\src\index.crates.io-6f17d22bba15001f\finl_unicode-1.2.0\src\data\mod.rs:
+C:\Users\thund\.cargo\registry\src\index.crates.io-6f17d22bba15001f\finl_unicode-1.2.0\src\data\characters.rs:
+C:\Users\thund\.cargo\registry\src\index.crates.io-6f17d22bba15001f\finl_unicode-1.2.0\src\data\grapheme_property.rs:
